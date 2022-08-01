@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "xm": "/components/xm/xm",
+    "zujian": "/components/zujian/zujian"
+  }
+}
